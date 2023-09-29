@@ -1,4 +1,4 @@
-<h1 align="center">Http-node</h1>
+<h1 align="center">http-node</h1>
 
 <p align="center">Web application that list and save all of our favorite Links. Developed using only native Node.js modules 🧱</p>
 </p>
