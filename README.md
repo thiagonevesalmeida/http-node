@@ -28,10 +28,9 @@ This project was developed with the following technologies:
 
 ## 💻 Project
 
-This project aims to create a complete environment that includes a server, a web frontend, and an API, all implemented using native Node.js modules. 
-<br>
+The goal of this project is to demonstrate how to create a complete development environment using only native Node.js resources. 
 
-The goal of this project is to demonstrate how to create a complete development environment using only native Node.js resources. Here are the main objectives:
+### Objectives
 
 - **Server:** The project begins with the creation of a backend server that serves static files such as HTML, CSS, and JavaScript using the `http` module. This provides a solid foundation for hosting web content.
 
