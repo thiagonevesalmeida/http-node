@@ -4,7 +4,7 @@ const path = require('node:path')
 
 
 http.createServer((req, res) => {
-	// rota Homepage
+	//Homepage
 	const file = req.url === '/'? 'index.html' : req.url
 	const filePath = path.join(__dirname, 'web', file)
 	const extname = path.extname(filePath)
